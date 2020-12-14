@@ -1,7 +1,7 @@
 # Date:         12/13/20
 # Description:  Create html heatmap of options data for puts and calls showing
 #               strike price (y-axis), expiration (x-axis), and intensity of
-#               volume at given strike/expiry.
+#               volume (z-axis) at given strike/expiry.
 
 import pandas as pd
 import plotly.graph_objects as go
