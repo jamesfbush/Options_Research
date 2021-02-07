@@ -1,4 +1,4 @@
-# SPY_Options_Research
+# Options Research Tools
 A few tools for scraping and visualizing publicly available options data on the SPY ETF
 
 ## options_data_scraper.py
