@@ -19,6 +19,6 @@ Batch of sample data in .csv for plotting heatmap with SPY_options_heatmap.py
 
 ## tiingoQuery.py
 
-With a Tiingo account set up and a Tiingo API key saved to same directory as the Python file ("api_key.txt"), this program will request the user input a ticker symbol, start date, end date, and frequency (e.g., "daily") and return a Pandas dataframe and Poltly line chart of any listed security. 
+With a Tiingo account set up and a Tiingo API key saved to same directory as the Python file ("api_key.txt"), this program will request the user input a ticker symbol, start date, end date, and frequency (e.g., "daily") and return a Pandas dataframe and Poltly line chart for any listed security. 
 
 Dependencies: pandas, tiingo, plotly.express. 
